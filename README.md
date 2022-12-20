@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Pradumon</h1>
 
 ![Masterhead](https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif)
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pradumon12&label=Profile%20views&color=0e75b6&style=flat" alt="pradumon12" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pradumon12" alt="pradumon12" /></a> </p>
 
 - 🌱 I’m currently learning **App development**
 # Skills and Tools
