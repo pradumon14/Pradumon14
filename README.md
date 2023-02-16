@@ -9,8 +9,5 @@
 # Skills and Tools
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,python,blender)](https://skillicons.dev)</br>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pradumon12&show_icons=true&locale=en&layout=compact" alt="pradumon12" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pradumon12&show_icons=true&locale=en" alt="pradumon12" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pradumon12&" alt="pradumon12" /></p>
